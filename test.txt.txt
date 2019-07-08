@@ -1,0 +1,6 @@
+roll    name     marks
+101     ram      30
+102     shyam    40
+103     suresh   50
+
+104	ishank	60
